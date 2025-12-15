@@ -25,8 +25,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### **Embedded Systems & IoT**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -44,18 +42,15 @@
 
 ## 🚀 Featured Projects
 
-### **AI-Powered Image Classification System**
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Saihan-DIU&repo=image-classification-cnn&theme=dark&show_owner=true)](https://github.com/Saihan-DIU/image-classification-cnn)
-**Tech:** Python, TensorFlow, OpenCV, CNN | **Status:** In Progress  
-A convolutional neural network model for accurate image classification with a custom dataset.
-
-### **Smart Home Automation with ESP32**
+### **A Low-Cost Edge-Intelligent Wearable for Robust Fall Detection and Emergency Alerting Using TinyML, GSM, and GPS Localization**
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Saihan-DIU&repo=esp32-home-automation&theme=dark&show_owner=true)](https://github.com/Saihan-DIU/esp32-home-automation)
-**Tech:** C++, ESP32, MQTT, Firebase | **Status:** Completed  
+
+**Tech:** C++, ESP32, MQTT, Firebase | **Status:** In progress 
 IoT-based home automation system with remote control via mobile app and voice commands.
 
 ### **Student Management System**
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Saihan-DIU&repo=student-management-system&theme=dark&show_owner=true)](https://github.com/Saihan-DIU/student-management-system)
+
 **Tech:**JavaScript | **Status:** Completed  
 A comprehensive web application for managing student records, grades, and course enrollment.
 

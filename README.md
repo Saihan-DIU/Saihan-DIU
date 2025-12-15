@@ -45,7 +45,7 @@
 ### **A Low-Cost Edge-Intelligent Wearable for Robust Fall Detection and Emergency Alerting Using TinyML, GSM, and GPS Localization**
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Saihan-DIU&repo=esp32-home-automation&theme=dark&show_owner=true)](https://github.com/Saihan-DIU/esp32-home-automation)
 
-**Tech:** C++, ESP32, MQTT, Firebase | **Status:** In progress 
+**Tech:** TinyML,ESP32,TensorFlow Lite,C++,GSM/GPS,MPU6050,Embedded AI | **Status:** In progress 
 IoT-based home automation system with remote control via mobile app and voice commands.
 
 ### **Student Management System**
@@ -113,6 +113,9 @@ A comprehensive web application for managing student records, grades, and course
 ## 📊 Weekly Development Breakdown
 
 Python        ████████████░░░░░░░░░░░░░   45%
+
 C++           ████████░░░░░░░░░░░░░░░░░   30%
+
 JavaScript    ████░░░░░░░░░░░░░░░░░░░░░   15%
+
 HTML/CSS      ██░░░░░░░░░░░░░░░░░░░░░░░   10%

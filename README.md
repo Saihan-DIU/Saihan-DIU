@@ -1,4 +1,4 @@
-## Hi 👋, I'm Saihan
+# Hi 👋, I'm Saihan
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Computer+Science+Student;Embedded+Systems+Learner" />
@@ -19,28 +19,36 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Saihan-DIU" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-saihan-alam-b56117253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:diusaihancse@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saihan-DIU&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saihan-DIU&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saihan-DIU" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saihan-DIU&theme=default" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 👁️ Visitor Count
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saihan-DIU&row=1&column=6" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Saihan-DIU.Saihan-DIU&left_color=blue&right_color=green" />
 </p>
-
----
-
-## 📫 Connect With Me
-- 📧 diusaihancse@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-saihan-alam-b56117253)
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Saihan-DIU.Saihan-DIU)

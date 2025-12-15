@@ -50,5 +50,6 @@
 ## 👁️ Visitor Count
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Saihan-DIU.Saihan-DIU&left_color=blue&right_color=green" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Saihan-DIU.Saihan-DIU
+&left_color=blue&right_color=green" />
 </p>

@@ -13,9 +13,7 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,django,git,github,linux,arduino" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,django,git,github,linux,arduino&perline=4)](https://skillicons.dev)
 
 ---
 
@@ -38,11 +36,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saihan-DIU&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saihan-DIU&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saihan-DIU&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saihan-DIU&theme=radical" />
 </p>
 
 ---
@@ -50,6 +48,5 @@
 ## 👁️ Visitor Count
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Saihan-DIU.Saihan-DIU
-&left_color=blue&right_color=green" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Saihan-DIU.Saihan-DIU&left_color=blue&right_color=green" />
 </p>

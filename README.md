@@ -4,61 +4,43 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Computer+Science+Student;Embedded+Systems+Learner" />
 </p>
 
-🎓 Computer Science & Engineering Student at **Dhaka International University**  
-💻 Interested in **AI & Machine Learning–based projects**  
-🌱 Currently learning: **Data Structures, Microprocessors, Git & Linux**
+- 🎓 CSE student at Dhaka International University  
+- 🤖 Interested in AI & Machine Learning  
+- 💻 Competitive Programming & Problem Solving  
+- 🔌 Embedded Systems (ESP32, Arduino)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Languages & Tools
 
-**Programming Languages**
-- C, C++, Python, JavaScript
-- Assembly (8086 / 8085 – academic)
-
-**Core Computer Science**
-- Data Structures & Algorithms  
-- Compiler Design  
-- Microprocessors & Microcontrollers  
-
-**Embedded Systems**
-- ESP32, Arduino  
-- SIM800L GSM Module  
-
-**Tools & Platforms**
-- Git & GitHub  
-- Visual Studio Code  
-- Flex & Bison  
-- Arduino IDE  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,django,git,github,linux,arduino" />
+</p>
 
 ---
 
-## 📌 Academic & Personal Projects
+## 📊 GitHub Stats
 
-### 🔹 Compiler Design Project
-- Implemented lexical analysis and syntax parsing  
-- Computed FIRST and FOLLOW sets  
-- Tools used: **Flex & Bison**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saihan-DIU&show_icons=true" />
+</p>
 
-### 🔹 Embedded GSM Communication System
-- Developed an ESP32-based GSM communication system  
-- Used SIM800L for SMS and communication  
-- Focused on hardware–software integration
-
-### 🔹 BookBazar – E-Commerce Website
-- Online book buying platform  
-- Technologies: **HTML, CSS, JavaScript, Django**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saihan-DIU" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophies
 
-![Saihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saihan-DIU&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saihan-DIU&layout=compact)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saihan-DIU&row=1&column=6" />
+</p>
 
 ---
 
-## 📫 Contact & Links
-- 📧 Email: **diusaihancse@gmail.com**  
-- 💼 LinkedIn: [Md. Saihan Alam](https://www.linkedin.com/in/md-saihan-alam-b56117253)
+## 📫 Connect With Me
+- 📧 diusaihancse@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-saihan-alam-b56117253)
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Saihan-DIU.Saihan-DIU)

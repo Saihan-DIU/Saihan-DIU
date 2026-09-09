@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Md. Saihan Alam
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=500&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Computer+Science+and+Engineering+Student;Embedded+Systems+Developer;Problem+Solver+%26+Creative+Thinker" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=500&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast; Computer+Science+and+Engineering+Student;Embedded+Systems+Developer;Problem+Solver+%26+Creative+Thinker" alt="Dynamic Typing" />
 </p>
 
 🎓 **Computer Science and Engineering Student** at Dhaka International University  
@@ -43,7 +43,7 @@
 ## 🚀 Featured Projects
 
 ### **A Low-Cost Edge-Intelligent Wearable for Robust Fall Detection and Emergency Alerting Using TinyML, GSM, and GPS Localization**
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Saihan-DIU&repo=esp32-home-automation&theme=dark&show_owner=true)](https://github.com/Saihan-DIU/esp32-home-automation)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Saihan-DIU&repo=esp32-home-automation&theme=dark&show_owner=true)](https://github.com/Saihan-DIU/Fall-Detection-and-Emergency-Alert.git)
 
 **Tech:** TinyML, ESP32, TensorFlow Lite, C++, GSM/GPS, MPU6050, Embedded AI | **Status:** In progress 
 A fully autonomous wearable system that detects falls using on-device machine learning and sends emergency alerts via SMS with GPS location— **no internet or smartphone required**.
